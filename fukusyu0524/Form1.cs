@@ -55,5 +55,12 @@ namespace fukusyu0524
             vx = 0;
             vy = 0;
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            label1.Location = new Point(257,145);
+            vx = 0;
+            vy = 0;
+        }
     }
 }
